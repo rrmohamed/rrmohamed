@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Mohamed Abdel-Karim 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Abdelkareem 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 💡 Passionate about UI/UX | 💻 Freelancer
+  🚀 Frontend Developer | 💡 Passionate about React.js / Next.js | 💻 Freelancer
 </p>
 
 ---
@@ -19,22 +19,35 @@ I'm a **Frontend Developer** with a strong passion for building interactive and 
 ## 🛠️ Tech Stack  
 
 ### 🚀 **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ### ⚙ **State Management & APIs**
-![Context API](https://img.shields.io/badge/ContextAPI-0088CC?style=for-the-badge)  
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Context_API-0088CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Formik-FF7F50?style=for-the-badge" />
+</p>
 
 ### 🛠 **Other Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -59,9 +72,9 @@ A modern **E-Commerce Website** built with **React.js**, **Context API**, and **
 ---
 
 ## 📫 Get in Touch  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
-📌 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+📧 **Email**: [mohamedabdelkareem120@gmail.com](mailto:mohamedabdelkareem120@gmail.com)  
+💼 **LinkedIn**: [My LinkedIn](www.linkedin.com/in/mohamedabdelkareemabdelaziz)  
+📌 **CV**: [My CV](https://drive.google.com/file/d/1hyWiR9h3ExTSrypNPqRzGm-QmFYj8-Sk/view?usp=sharing)  
 
 ---
 
