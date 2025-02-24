@@ -64,6 +64,14 @@ A modern **E-Commerce Website** built with **React.js**, **Context API**, and **
 
 ---
 
+## 📜 Certifications  
+
+- **[Web Challenger Track - Udacity](https://drive.google.com/file/d/1VZcvP7VOfV1IwIZWP9uMeQGr5C_u7273/view)**  
+- **[Fundamentals of Front-End Web Developer - ITI, Ismailia](https://drive.google.com/file/d/1IRy9990bnm6qR6jw1OamzoSWEvkTW7EP/view)**  
+- **[Frontend Developer Diploma - Route IT Training Center](https://drive.google.com/file/d/12cJ9w_KXlSxI2fjRkburmhBByq9u8Pty/view)**  
+
+---
+
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rrmohamed&show_icons=true&theme=radical" alt="GitHub Stats" />
