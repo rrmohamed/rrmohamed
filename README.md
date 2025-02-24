@@ -58,10 +58,6 @@ A modern **E-Commerce Website** built with **React.js**, **Context API**, and **
 🚀 **Live Demo**: [Aspire Shopping](https://aspire-shopping.vercel.app/)  
 📌 **GitHub**: [E-Commerce Repository](https://github.com/rrmohamed/E-Commerce-Website)
 
-### 🔗 More Projects  
-- 🌍 [Portfolio Website](https://yourportfolio.com)  
-- 🔧 [Other GitHub Repositories](https://github.com/rrmohamed?tab=repositories)  
-
 ---
 
 ## 📜 Certifications  
