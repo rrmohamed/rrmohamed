@@ -1,5 +1,8 @@
 <h1 align="center">Mohamed Abdelkareem</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%26+High+Performance" />
+</p>
 
 <p align="center">
   <a href="https://m-3bkareem.vercel.app/">
@@ -11,47 +14,51 @@
   <a href="mailto:mohamedabdelkareem120@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://wa.me/201110289397">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Frontend Developer specializing in building scalable, high-performance web applications using **React.js** and modern frontend technologies. I focus on writing clean, maintainable code and delivering responsive, user-friendly interfaces.
+Frontend Developer specializing in building scalable, high-performance web applications using **React.js**, **Next.js**, and modern frontend technologies.  
+I focus on writing clean, maintainable code and delivering responsive, user-friendly interfaces.
 
-I also have experience in **Solution Architecture & Pre-Sales**, working closely with stakeholders to translate business requirements into technical solutions.
+I also bring experience in **Solution Architecture & Pre-Sales**, helping bridge the gap between business needs and technical implementation.
 
 - 💼 Solution Architect - Pre Sales at **Tqnia for IT**
 - 👨‍💻 Part-time Frontend Developer at **Amr Tech** (Vanilla JavaScript)
 - 🚀 Freelancer building real-world applications
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Performance Optimization**
-- 🎯 Passionate about Clean Code & Scalable Architecture
+- ⚡ Strong focus on performance optimization
+- 🎯 Clean Code & Scalable Architecture mindset
 
 ---
 
-# 🧠 Experience
+# 🧠 Professional Experience
 
-## 🏢 Tqnia for IT  
+## 🏢 Tqnia for IT
 ### Solution Architect - Pre Sales
 
-- Gathered business and technical requirements  
-- Designed scalable system architectures  
+- Gathered business requirements and translated them into technical solutions  
+- Designed scalable system architecture  
 - Prepared technical proposals and documentation  
-- Worked closely with development teams  
-- Translated client needs into technical solutions  
+- Collaborated with stakeholders and engineering teams  
+- Provided pre-sales technical consultation  
 
 ---
 
-## 🏢 Amr Tech  
-### Frontend Developer (Part Time) — Vanilla JavaScript
+## 🏢 Amr Tech
+### Frontend Developer (Part Time)
 
 🔗 Live Project  
 https://amr-rashad.github.io/Electrical-Solutions/
 
 - Built responsive UI using Vanilla JavaScript  
 - Developed interactive components  
-- Optimized performance and rendering  
-- Collaborated with team on production features  
+- Optimized performance and DOM rendering  
+- Worked on production-ready features  
 
 ---
 
@@ -89,14 +96,16 @@ https://amr-rashad.github.io/Electrical-Solutions/
 # 🌐 Portfolio
 
 ### 🚀 Personal Portfolio
-🔗 https://m-3bkareem.vercel.app/
+
+💻 https://m-3bkareem.vercel.app/
 
 ---
 
 # 📂 Featured Projects
 
 ## 🛒 Aspire Shopping
-Modern E-Commerce built using React.js & Context API
+
+Modern E-Commerce built with React.js
 
 🔴 Live  
 https://aspire-shopping.vercel.app/
@@ -106,40 +115,12 @@ https://github.com/rrmohamed/E-Commerce-Website
 
 ---
 
-## ⚡ Electrical Solutions (Amr Tech)
+## ⚡ Electrical Solutions
 
 Vanilla JavaScript Production Project
 
 🔴 Live  
 https://amr-rashad.github.io/Electrical-Solutions/
-
----
-
-# 📜 Certifications
-
-- Web Challenger Track — Udacity  
-- Frontend Fundamentals — ITI  
-- Frontend Diploma — Route  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rrmohamed&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrmohamed&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rrmohamed&theme=tokyonight&no-frame=true&row=1"/>
-</p>
 
 ---
 
@@ -151,11 +132,14 @@ mohamedabdelkareem120@gmail.com
 💼 LinkedIn  
 https://www.linkedin.com/in/mohamedabdelkareemabdelaziz  
 
+📱 WhatsApp  
+https://wa.me/201110289397  
+
 🌐 Portfolio  
 https://m-3bkareem.vercel.app/
 
 ---
 
 <p align="center">
-⭐ Frontend Developer | React Specialist | Always Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
