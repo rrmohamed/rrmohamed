@@ -1,87 +1,161 @@
-<h1 align="center">Hi there, I'm Mohamed Abdelkareem 👋</h1>
+<h1 align="center">Mohamed Abdelkareem</h1>
+<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript</h3>
 
 <p align="center">
-  🚀 Frontend Developer | 💡 Passionate about React.js / Next.js | 💻 Freelancer
+  <a href="https://m-3bkareem.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedabdelkareemabdelaziz">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mohamedabdelkareem120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## 🌟 About Me  
-I'm a **Frontend Developer** with a strong passion for building interactive and scalable web applications. I specialize in **React.js** and modern web technologies to create seamless user experiences.
+# 👨‍💻 About Me
 
-- 🔭 Currently working as a **Freelancer**.
-- 📚 Always learning new technologies & frameworks.
-- 🌱 Exploring **Next.js**, **TypeScript**, and **Performance Optimization**.
-- 💡 Passionate about **Web Performance & Clean Code**.
+Frontend Developer specializing in building scalable, high-performance web applications using **React.js** and modern frontend technologies. I focus on writing clean, maintainable code and delivering responsive, user-friendly interfaces.
 
----
+I also have experience in **Solution Architecture & Pre-Sales**, working closely with stakeholders to translate business requirements into technical solutions.
 
-## 🛠️ Tech Stack  
-
-### 🚀 **Frontend Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### ⚙ **State Management & APIs**
-<p align="center">
-  <img src="https://img.shields.io/badge/Context_API-0088CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Formik-FF7F50?style=for-the-badge" />
-</p>
-
-### 🛠 **Other Tools & Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+- 💼 Solution Architect - Pre Sales at **Tqnia for IT**
+- 👨‍💻 Part-time Frontend Developer at **Amr Tech** (Vanilla JavaScript)
+- 🚀 Freelancer building real-world applications
+- 🌱 Currently learning **Next.js**, **TypeScript**, and **Performance Optimization**
+- 🎯 Passionate about Clean Code & Scalable Architecture
 
 ---
 
-## 📂 Featured Projects  
+# 🧠 Experience
 
-### 🛒 [Aspire Shopping](https://aspire-shopping.vercel.app/)
-A modern **E-Commerce Website** built with **React.js**, **Context API**, and **Formik**.  
-🚀 **Live Demo**: [Aspire Shopping](https://aspire-shopping.vercel.app/)  
-📌 **GitHub**: [E-Commerce Repository](https://github.com/rrmohamed/E-Commerce-Website)
+## 🏢 Tqnia for IT  
+### Solution Architect - Pre Sales
 
----
-
-## 📜 Certifications  
-
-- **[Web Challenger Track - Udacity](https://drive.google.com/file/d/1VZcvP7VOfV1IwIZWP9uMeQGr5C_u7273/view)**  
-- **[Fundamentals of Front-End Web Developer - ITI, Ismailia](https://drive.google.com/file/d/1IRy9990bnm6qR6jw1OamzoSWEvkTW7EP/view)**  
-- **[Frontend Developer Diploma - Route IT Training Center](https://drive.google.com/file/d/12cJ9w_KXlSxI2fjRkburmhBByq9u8Pty/view)**  
+- Gathered business and technical requirements  
+- Designed scalable system architectures  
+- Prepared technical proposals and documentation  
+- Worked closely with development teams  
+- Translated client needs into technical solutions  
 
 ---
 
-## 📈 GitHub Stats  
+## 🏢 Amr Tech  
+### Frontend Developer (Part Time) — Vanilla JavaScript
+
+🔗 Live Project  
+https://amr-rashad.github.io/Electrical-Solutions/
+
+- Built responsive UI using Vanilla JavaScript  
+- Developed interactive components  
+- Optimized performance and rendering  
+- Collaborated with team on production features  
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrmohamed&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+### UI & Styling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
+
+### State Management & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_API-0088CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📫 Get in Touch  
-📧 **Email**: [mohamedabdelkareem120@gmail.com](mailto:mohamedabdelkareem120@gmail.com)  
-💼 **LinkedIn**: [My LinkedIn](www.linkedin.com/in/mohamedabdelkareemabdelaziz)  
-📌 **CV**: [My CV](https://drive.google.com/file/d/1hyWiR9h3ExTSrypNPqRzGm-QmFYj8-Sk/view?usp=sharing)  
+# 🌐 Portfolio
+
+### 🚀 Personal Portfolio
+🔗 https://m-3bkareem.vercel.app/
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
-🚀 Let's build something amazing together!
+# 📂 Featured Projects
 
+## 🛒 Aspire Shopping
+Modern E-Commerce built using React.js & Context API
+
+🔴 Live  
+https://aspire-shopping.vercel.app/
+
+📦 GitHub  
+https://github.com/rrmohamed/E-Commerce-Website
+
+---
+
+## ⚡ Electrical Solutions (Amr Tech)
+
+Vanilla JavaScript Production Project
+
+🔴 Live  
+https://amr-rashad.github.io/Electrical-Solutions/
+
+---
+
+# 📜 Certifications
+
+- Web Challenger Track — Udacity  
+- Frontend Fundamentals — ITI  
+- Frontend Diploma — Route  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rrmohamed&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rrmohamed&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rrmohamed&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email  
+mohamedabdelkareem120@gmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mohamedabdelkareemabdelaziz  
+
+🌐 Portfolio  
+https://m-3bkareem.vercel.app/
+
+---
+
+<p align="center">
+⭐ Frontend Developer | React Specialist | Always Learning
+</p>
